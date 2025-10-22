@@ -3,6 +3,7 @@
 -> Look at TutorTask.ipynb for more info on:
 
 Think of some knowledge or a skill: Scratch coding
+- I asked Gemini-2.5 Flash to be my tutor in Scratch beginner coding
 
 Make some observations of the conversation
 
